@@ -1,5 +1,5 @@
 {
-  "name": "fetch-helpers",
+  "name": "11online-fetch-helpers",
   "version": "1.0.0",
   "description": "Helpers for the fetch library",
   "main": "index.js",
@@ -13,7 +13,7 @@
   "keywords": [
     "fetch"
   ],
-  "author": "Eric Debelak",
+  "author": "ericdebelak",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/11online/fetch-helpers/issues"
