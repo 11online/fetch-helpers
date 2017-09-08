@@ -4,7 +4,7 @@ This is a simple package that checks the response and throws an exception the re
 
 `npm install --save 11online-fetch-helpers`
 
-Import it like so: `import {handleResponse} from 'fetch-helpers';`
+Import it like so: `import {handleResponse} from '11online-fetch-helpers';`
 
 Use like so:
 
